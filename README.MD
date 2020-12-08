@@ -15,7 +15,7 @@ email: yehab2000@gmail.com
     <a href="#" >
         <img src="images/cloud-funcs.png" alt="Logo3" width="100" >
     </a>
-    <h3 align="center">EzRide</h3>
+    <h1 align="center">EzRide</h1>
     
 </p>
 
